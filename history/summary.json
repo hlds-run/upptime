@@ -4,18 +4,20 @@
     "url": "https://hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7073,
-    "timeDay": 7073,
-    "timeWeek": 7073,
-    "timeMonth": 7073,
-    "timeYear": 7073,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "50.86%",
+    "uptimeDay": "50.86%",
+    "uptimeWeek": "50.86%",
+    "uptimeMonth": "50.86%",
+    "uptimeYear": "50.86%",
+    "time": 5863,
+    "timeDay": 5863,
+    "timeWeek": 5863,
+    "timeMonth": 5863,
+    "timeYear": 5863,
+    "dailyMinutesDown": {
+      "2025-08-23": 8
+    }
   },
   {
     "name": "Google",
