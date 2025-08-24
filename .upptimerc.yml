@@ -6,7 +6,7 @@ sites:
   - name: HLDS.run
     url: https://hlds.run
   - name: HLDS.run 1
-    url: https://hlds.run
+    url: https://hlds.runa
     type: globalping
   - name: Google
     url: https://www.google.com
