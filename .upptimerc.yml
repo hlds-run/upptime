@@ -9,6 +9,8 @@ sites:
     url: https://www.google.com
   - name: rehlds.dev
     url: https://rehlds.dev
+  - name: goldsrc.ru
+    url: https://goldsrc.ru
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
