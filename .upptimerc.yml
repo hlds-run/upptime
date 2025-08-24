@@ -7,6 +7,9 @@ sites:
     url: https://hlds.run
   - name: Google
     url: https://www.google.com
+    url: https://hlds.run
+  - name: rehlds.dev
+    url: https://rehlds.dev
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
