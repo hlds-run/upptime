@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
     "status": "up",
-    "uptime": "50.86%",
-    "uptimeDay": "50.86%",
-    "uptimeWeek": "50.86%",
-    "uptimeMonth": "50.86%",
-    "uptimeYear": "50.86%",
-    "time": 5863,
-    "timeDay": 5863,
-    "timeWeek": 5863,
-    "timeMonth": 5863,
-    "timeYear": 5863,
-    "dailyMinutesDown": {
-      "2025-08-23": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 5030,
+    "timeDay": 5030,
+    "timeWeek": 5030,
+    "timeMonth": 5030,
+    "timeYear": 5030,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Google",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "time": 79,
+    "timeDay": 79,
+    "timeWeek": 79,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {}
   }
 ]
