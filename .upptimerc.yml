@@ -5,11 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: HLDS.run
     url: https://hlds.run
-  - name: HLDS.run 1
-    url: https://hlds.runa
     type: globalping
-  - name: Google
-    url: https://www.google.com
   - name: rehlds.dev
     url: https://rehlds.dev
   - name: goldsrc.ru
