@@ -6,15 +6,15 @@
     "slug": "hlds-run",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "97.04%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
-    "time": 1013,
-    "timeDay": 1265,
-    "timeWeek": 616,
-    "timeMonth": 374,
-    "timeYear": 1013,
+    "time": 1001,
+    "timeDay": 175,
+    "timeWeek": 602,
+    "timeMonth": 372,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-10-15": 43
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 237,
-    "timeWeek": 188,
-    "timeMonth": 189,
+    "timeDay": 226,
+    "timeWeek": 197,
+    "timeMonth": 191,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 1629,
-    "timeDay": 1909,
-    "timeWeek": 2107,
-    "timeMonth": 1690,
-    "timeYear": 1629,
+    "time": 1631,
+    "timeDay": 1768,
+    "timeWeek": 2140,
+    "timeMonth": 1699,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2025-10-10": 23
     }
