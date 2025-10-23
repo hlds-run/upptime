@@ -42,7 +42,7 @@
     "url": "https://goldsrc.ru",
     "icon": "https://icons.duckduckgo.com/ip3/goldsrc.ru.ico",
     "slug": "goldsrc-ru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,6 +54,7 @@
     "timeMonth": 1702,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2025-10-23": 0,
       "2025-10-10": 23
     }
   }
