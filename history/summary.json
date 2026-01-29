@@ -4,7 +4,7 @@
     "url": "https://hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.08%",
@@ -16,6 +16,7 @@
     "timeMonth": 353,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2026-01-28": 25,
       "2026-01-26": 67,
       "2026-01-21": 52,
