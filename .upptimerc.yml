@@ -6,6 +6,9 @@ sites:
   - name: HLDS.run
     url: https://hlds.run
     type: globalping
+  - name: docs.HLDS.run
+    url: https://docs.hlds.run
+    type: globalping
   - name: rehlds.dev
     url: https://rehlds.dev
   - name: goldsrc.ru
