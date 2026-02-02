@@ -4,9 +4,9 @@
     "url": "https://hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.75%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "99.68%",
@@ -16,6 +16,7 @@
     "timeMonth": 345,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2026-02-02": 0,
       "2026-01-31": 19,
       "2026-01-30": 37,
       "2026-01-29": 179,
@@ -39,18 +40,20 @@
     "url": "https://docs.hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/docs.hlds.run.ico",
     "slug": "docs-hlds-run",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 190,
     "timeDay": 190,
     "timeWeek": 190,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-02": 0
+    }
   },
   {
     "name": "rehlds.dev",
