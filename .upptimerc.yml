@@ -6,15 +6,11 @@ sites:
   - name: HLDS.run
     url: https://hlds.run
     type: globalping
-  - name: HLDS.run
+  - name: ru.hlds.run
     url: https://ru.hlds.run
   - name: docs.HLDS.run
     url: https://docs.hlds.run
     type: globalping
-  - name: rehlds.dev
-    url: https://rehlds.dev
-  - name: goldsrc.ru
-    url: https://goldsrc.ru
   # - name: Wikipedia
   #   url: https://en.wikipedia.org
   # - name: Hacker News
