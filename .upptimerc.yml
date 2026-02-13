@@ -6,6 +6,8 @@ sites:
   - name: HLDS.run
     url: https://hlds.run
     type: globalping
+  - name: HLDS.run
+    url: https://ru.hlds.run
   - name: docs.HLDS.run
     url: https://docs.hlds.run
     type: globalping
