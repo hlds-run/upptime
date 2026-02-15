@@ -1,7 +1,7 @@
 url: https://ru.hlds.run
-status: up
-code: 200
-responseTime: 6554
-lastUpdated: 2026-02-14T23:12:21.377Z
+status: down
+code: 503
+responseTime: 5853
+lastUpdated: 2026-02-15T02:52:39.340Z
 startTime: 2026-02-13T20:31:01.971Z
 generator: Upptime <https://github.com/upptime/upptime>
