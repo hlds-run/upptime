@@ -58,9 +58,9 @@
     "url": "https://ru.hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/ru.hlds.run.ico",
     "slug": "ru-hlds-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
@@ -70,6 +70,7 @@
     "timeMonth": 1423,
     "timeYear": 1935,
     "dailyMinutesDown": {
+      "2026-03-29": 0,
       "2026-02-15": 467
     }
   },
@@ -79,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.hlds.run.ico",
     "slug": "docs-hlds-run",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 334,
     "timeDay": 232,
     "timeWeek": 236,
