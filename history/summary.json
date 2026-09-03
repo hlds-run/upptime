@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
     "status": "up",
-    "uptime": "94.12%",
+    "uptime": "94.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.96%",
     "time": 441,
     "timeDay": 211,
-    "timeWeek": 603,
+    "timeWeek": 672,
     "timeMonth": 282,
     "timeYear": 345,
     "dailyMinutesDown": {
@@ -87,15 +87,15 @@
     "url": "https://ru.hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/ru.hlds.run.ico",
     "slug": "ru-hlds-run",
-    "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.61%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.60%",
+    "uptimeYear": "96.61%",
     "time": 1685,
     "timeDay": 824,
-    "timeWeek": 5360,
+    "timeWeek": 6010,
     "timeMonth": 2380,
     "timeYear": 1685,
     "dailyMinutesDown": {
@@ -112,7 +112,8 @@
       "2026-04-13": 50,
       "2026-06-12": 99,
       "2026-06-11": 48,
-      "2026-06-23": 26
+      "2026-06-23": 26,
+      "2026-09-03": 1
     }
   },
   {
@@ -128,7 +129,7 @@
     "uptimeYear": "99.39%",
     "time": 274,
     "timeDay": 175,
-    "timeWeek": 191,
+    "timeWeek": 181,
     "timeMonth": 342,
     "timeYear": 274,
     "dailyMinutesDown": {
