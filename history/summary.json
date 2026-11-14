@@ -4,11 +4,11 @@
     "url": "https://hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/hlds.run.ico",
     "slug": "hlds-run",
-    "status": "up",
-    "uptime": "95.02%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
+    "status": "down",
+    "uptime": "95.03%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "93.93%",
     "time": 410,
     "timeDay": 251,
@@ -79,7 +79,8 @@
       "2026-05-15": 152,
       "2026-06-12": 99,
       "2026-06-11": 49,
-      "2026-10-31": 228
+      "2026-10-31": 228,
+      "2026-11-14": 6
     }
   },
   {
@@ -87,16 +88,16 @@
     "url": "https://ru.hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/ru.hlds.run.ico",
     "slug": "ru-hlds-run",
-    "status": "up",
+    "status": "down",
     "uptime": "97.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "97.33%",
     "time": 1580,
     "timeDay": 1300,
-    "timeWeek": 1174,
-    "timeMonth": 1245,
+    "timeWeek": 1180,
+    "timeMonth": 1233,
     "timeYear": 1580,
     "dailyMinutesDown": {
       "2026-02-15": 467,
@@ -115,7 +116,8 @@
       "2026-06-23": 26,
       "2026-09-03": 376,
       "2026-10-31": 223,
-      "2026-11-06": 33
+      "2026-11-06": 33,
+      "2026-11-14": 1
     }
   },
   {
@@ -123,16 +125,16 @@
     "url": "https://docs.hlds.run",
     "icon": "https://icons.duckduckgo.com/ip3/docs.hlds.run.ico",
     "slug": "docs-hlds-run",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.45%",
     "time": 254,
     "timeDay": 184,
     "timeWeek": 236,
-    "timeMonth": 167,
+    "timeMonth": 168,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2026-02-02": 73,
@@ -163,7 +165,8 @@
       "2026-05-15": 152,
       "2026-09-01": 341,
       "2026-09-03": 155,
-      "2026-10-31": 223
+      "2026-10-31": 223,
+      "2026-11-14": 0
     }
   }
 ]
